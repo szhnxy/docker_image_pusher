@@ -1,2 +1,2 @@
 kylin
-openeuler:2203
+openeuler
